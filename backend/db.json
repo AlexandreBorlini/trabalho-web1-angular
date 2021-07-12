@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apostila preta",
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Caneta Azul",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name": "Caderno",
+      "price": 7
+    },
+    {
+      "name": "Master Dragon Sword",
+      "price": 123.4,
+      "id": 4
+    },
+    {
+      "name": "Kings shield",
+      "price": "100",
+      "id": 5
+    }
+  ]
+}
